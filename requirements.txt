@@ -1,0 +1,6 @@
+torch
+git+https://github.com/huggingface/parler-tts.git
+streamlit
+transformers
+soundfile
+pysrt
